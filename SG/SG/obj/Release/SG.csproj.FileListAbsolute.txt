@@ -1,0 +1,4 @@
+c:\users\slgriffin\documents\visual studio 2013\Projects\SG\SG\bin\Release\SG.dll
+c:\users\slgriffin\documents\visual studio 2013\Projects\SG\SG\bin\Release\SG.pdb
+c:\users\slgriffin\documents\visual studio 2013\Projects\SG\SG\obj\Release\SG.dll
+c:\users\slgriffin\documents\visual studio 2013\Projects\SG\SG\obj\Release\SG.pdb
